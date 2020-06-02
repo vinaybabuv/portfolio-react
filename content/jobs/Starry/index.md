@@ -1,12 +1,12 @@
 ---
 date: '2018-8'
-title: 'Software Engineer Co-op'
-company: 'Carnival Cruise Line'
-location: 'Miami, FL'
+title: 'Front-end Developer'
+company: 'University of South Dakota'
+location: 'Vermillion, SD'
 range: 'Aug 18- Jun 2019'
-url: 'https://starry.com/'
+url: 'https://usd.edu/'
 ---
 
-- UI/UX implementation of a web application including Design, Prototyping, Development and testing phases.
-- Retrieved API Web Services utilizing AJAX, JSON and XML.
-- Involved in writing application level code to interact with APIs, Web Services using AJAX, JSON and XML.
+- Involved in design and development of new features using AngularJS. 
+- Created REST API using Express and Node. 
+- Used Bootstrap components of Angular-UI like carousel, collapse, dropdown, and tabs to develop dynamic responsive Web Application.
