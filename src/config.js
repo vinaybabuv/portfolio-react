@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: 'Vinay Vanteddu | Software Engineer',
   siteDescription:
-    'Vinay Vanteddu is a software engineer based in Boston, MA who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+    'Vinay Vanteddu is a software engineer based in Dallas, TX who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
   siteKeywords:
     'Vinay Vanteddu, Vinay, Vanteddu, software engineer, front-end engineer, web developer, javascript, usd',
   siteUrl: 'https://vanteddu.com',
