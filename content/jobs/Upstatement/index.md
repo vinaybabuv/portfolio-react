@@ -1,5 +1,5 @@
 ---
-date: 'Feb 21'
+date: '2021'
 title: 'Full stack developer'
 company: 'Stratitude INC'
 location: 'Dallas, TX'

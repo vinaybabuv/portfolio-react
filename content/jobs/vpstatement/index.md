@@ -1,5 +1,5 @@
 ---
-date: 'July 19'
+date: '2019'
 title: 'Machine learning Intern'
 company: 'Rosenberg LPA'
 location: 'Cincinnati, OH'
