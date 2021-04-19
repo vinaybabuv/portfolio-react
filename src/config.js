@@ -10,7 +10,7 @@ module.exports = {
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Vinay Vanteddu',
   location: 'Irving, TX',
-  email: 'vinayvanteddu@icloud.com',
+  email: 'vinay.naidu003@gmail.com',
   github: 'https://github.com/vinaybabuv',
   socialMedia: [
     {
