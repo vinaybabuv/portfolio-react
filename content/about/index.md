@@ -3,9 +3,9 @@ title: 'About Me'
 avatar: './me.jpg'
 skills:
   - JavaScript (ES6+)
-  - HTML & (S)CSS
+  - Angular JS
   - React
-  - C#
+  - AWS
   - Node.js
   - Python
 ---
