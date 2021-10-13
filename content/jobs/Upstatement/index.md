@@ -1,14 +1,17 @@
 ---
 date: '2021'
-title: 'Full stack developer'
+title: 'Site Reliability Engineer'
 company: 'Stratitude INC'
 location: 'Dallas, TX'
 range: 'Dec 2019 - Feb 2021'
 url: 'https://www.stratitude.com/'
 ---
 
-- Implemented data visualization features for UI dashboard on our data analytics platform using React and Node.js.
-- Design, implement & consume Restful API's.
-- Building Physical as well as Virtual (VMware) Servers. 
-- Installed and configured VMware ESX server instances for virtual server setup and deployment. Responsible for creating VMware virtual guests running Solaris, Linux, Windows.
+- Teaching SRE principles and the importance of adopting blame postmortems, error budgets, and
+monitoring
+- Defined SLIs and SLOs for multiple applications
+-  Integrated different monitoring solutions such as Splunk, Honeycomb, Prometheus, Graphana, AWS
+cloud watch, etc
+- Developed and implemented Runbooks. Implemented cloud services IAAS, PAAS, and SaaS and
+providing monitoring solutions.
 - Used GIT version control for the software development and other version control tasks

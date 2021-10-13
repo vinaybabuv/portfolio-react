@@ -1,8 +1,8 @@
 ---
 title: 'Hi, my name is'
 name: 'Vinay Vanteddu'
-subtitle: 'Machine Learning enthusiast and Web Developer.'
+subtitle: 'SRE & DevOps'
 buttonText: 'Get In Touch'
 ---
 
-I'm a software engineer based in Dallas, Specializing in building (and occasionally designing) exceptional websites, applications, and aspiring AI engineer.
+I'm a Site Reliability Engineer with 2 years of experience and 2+ years of experience as a Full-stack developer with foundational Internet technology who undertakes complex assignments, exciting maintainable implementations, and delivers superior performance.
